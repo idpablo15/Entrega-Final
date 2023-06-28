@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2? family=Bebas+Neue&family=Oswald&family=Roboto:wght@300&family=Teko:wght@300&display=swap');
+*{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+/* configuracion general fija*/
+
+.botones{
+    background-color: pink;
+}
+
+
+.botones .navbar-nav{
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+
+.botonera img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    padding: 2px 5px;
+    background-color: chartreuse;
+}
+
+
+.hide {
+    font-size: 22px;
+    padding: 16px;
+    background-color: white;
+    color: black;
+
+}
+
+.logo img{
+    width: 25%;
+    height: auto;
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+.footer-contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    padding: 30px;
+    background-color: pink;
+}
+
+
+.iconosredes a img{
+    width: 40px;
+    height: 40px;
+
+}
+
+    .iconosredes img{
+        width: 100%;
+        height: 100%;
+        
+    }
+     
+
+/* index */
+
+.producto{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    background-color: red;
+    margin-bottom: 100px;
+}
+
+.card {
+    width: 20rem;
+    height: 25rem;
+    margin: 10px;
+    padding: 2px;
+    background-color: gainsboro;
+}
+
+.card img{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+}
+
+.producto .card h3{
+    text-align: center;
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.producto .card p{
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+}
+
+
+/* comprar */
+
+.claseproductos{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    background-color: aquamarine;
+    margin-bottom: 100px;
+}
+
+.card {
+    width: 20rem;
+    height: 25rem;
+    margin: 10px;
+    margin-top: 40px;
+    padding: 2px;
+    background-color: gainsboro;
+}
+
+    .card img{
+        width: 100%;
+        height: 70%;
+        object-fit: cover;
+    }
+
+        .claseproductos .card h3{
+            text-align: center;
+            font-size: 18px;
+            padding: 0px;
+            margin: 0px;
+        }
+
+            .claseproductos .card p{
+                text-align: center;
+                font-size: 18px;
+                color: gray;
+            }
+
+
+/* retirar */
+
+h1{
+    color: rgb(150, 99, 210);
+    font-size: 30px;
+    padding: 15px;
+    text-align: center;
+}
+
+h2{
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.subtitle p{
+    color: dimgray;
+    font-size: 18px;
+    padding: 5px;
+    text-align: center;
+}
+
+.productos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: brown;
+    margin-bottom: 50px;
+    padding: 0  20px;
+}
+
+    .productos figure{
+    width: 25%;
+    border: solid grey 1px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    padding: 0px 20px;
+    }
+    
+        .productos figure figcaption{
+            color: black;
+            font-size: 1.6em;
+        }        
+
+            .productos figure p{
+                font-size: 1.2em;
+                margin-bottom: 20px;
+                margin-bottom: 30px;
+            }
+
+            .productos figure button{
+                border: none;
+                padding: 6px 30px;
+                background-color: rgb(150, 99, 210);
+                border-radius: 5px;   
+                color: whitesmoke;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+
+.adress{
+    text-align: center;
+    color: rgb(14, 14, 14);
+    font-size: 18px;
+}
+
+
+
+/* "horario" aplica el mismo formato para todas las pag */ 
+.horario{
+    text-align: center;
+    padding: 5px;
+}
+
+h3{
+    color: black;
+    text-align: left;
+    padding: 20px; 
+    margin: 50px 40% 0px 0px;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: space-evenly;
+    color: dimgray;
+    font-size: 20px;
+    padding: 5px;
+    
+}
+
+.descripcion p{
+    padding: 50px;
+    background-color: aquamarine;   
+}
+
+    .descripcion{
+        width: 40%;
+        height: auto;
+        padding: 10px;
+
+    }
+
+        .descripcion img{
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+
+/* contacto */
+
+/*
+main{
+    width: 100%;
+    height: 10%;
+    background-color: white;
+    padding: 20px 30px;
+}
+*/
+
+.contacto h2{
+   font-size: 26px;
+   padding: 5px;
+   text-align: left;
+}
+
+    .contacto p{
+    font-size: 26px;
+    padding: 5px; 
+    }
+
+        .contacto{
+            width: 30%;
+            height: auto;
+            background-color: violet;
+            display: block;
+            margin: 40px 0 0 60%;
+        }
+
+.iframe-adress{
+    display: flex;
+}
+
+.formulario{
+    background-color: blue;
+    font-size:larger;
+    display: block;
+    margin: 40px 0 0 10%;
+
+}
+  
+
+/* sale */
+
+.h1{
+    color: rgb(150, 99,210);
+    font-size: 70px;
+    padding: 15px;
+    text-align: center;
+}
+
+.articulos{
+    width: 100%;
+    height: 1500px;
+    float: left;
+    background-color: white;
+}
+
+    .articulos h2{
+        text-align: center;
+    }
+
+        .articulos h3{
+            padding: 5px;
+            font-size: 30px;
+            text-align: right;
+        }
+   
+            .articulos img{
+                width: 30%;
+                height: 450px;
+                margin: 20px 10px 40px;
+                float: center; 
+                border-radius: 10px;
+                font-size: 20px;    
+            }
+
+
+@media (width < 768px) {
+
+/*Footer */
+.footer-contenedor{ 
+    font-size: 14px;
+    padding: 0 10px;
+}
+              
+.footer-contenedor .contacto1{
+    display: none;
+}
+                
+.footer-contenedor .iconosredes{
+    display: none;
+}
+          
+} 
+
+
+
+ 
