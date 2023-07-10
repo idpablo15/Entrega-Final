@@ -1,3 +1,59 @@
-/* retirar */
+// retirar
+
+.subtitle p{
+    color: $colortextindex;
+    font-size: $font-size-p2;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 50px;
+}
 
 
+.productos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding: 0  20px;
+        figure{
+            width: 25%;
+            border: solid grey 1px;
+            border-radius: 5px;
+            margin: 10px 20px;
+            padding: 0px 20px;
+            background-color: #faf5f0;
+            }
+                img{
+                    width: 100%;
+                align-items: center;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                }
+                    figcaption{
+                        color: black;
+                        font-size: $font-size-titlecardproduct;
+                    }     
+                        p{
+                            font-size: 1.2em;
+                            margin-bottom: 20px;
+                            margin-bottom: 30px;
+                        }   
+                            button{
+                                border: none;
+                                padding: 6px 30px;
+                                background-color: rgb(150, 99, 210);
+                                border-radius: 5px;   
+                                color: white;
+                                text-align: center;
+                                margin-bottom: 30px;
+                            }
+}
+
+
+.adress{
+    text-align: center;
+    color: rgb(14, 14, 14);
+    font-size: 18px;
+    margin-bottom: 8%;
+}

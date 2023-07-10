@@ -280,7 +280,7 @@ h1{
   
   .container-articulos{ grid-area: articulos;}
   
-  .container-productos { grid-area: productos; }
+  .container-productos { grid-area: productos;}
   
 
     .articulos h2{
