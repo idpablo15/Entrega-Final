@@ -1,6 +1,7 @@
 // sale
 
-.articulos {  display: grid;
+.articulos {  
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 400px 1fr 1fr;
     gap: 0px 0px;
@@ -10,32 +11,40 @@
       "articulos articulos articulos"
       "productos productos productos";
       margin-bottom: 10%;
-
-        .portada { grid-area: portada;}
-            img{
-                width: 100%;
-                height: 400px;
-                object-fit: cover;
-            }
-
-            .container-articulos{ grid-area: articulos;}
-                img{
-                    width: 30%;
-                    height: auto;
-                    margin: 20px 10px;
-                    border-radius: 0px;
-                }
-                .container-productos { grid-area: productos; }
-                    img{
-                        width: 30%;
-                        height: auto;
-                        margin: 20px 10px;
-                        border-radius: 0px;
-                    }
-                    
-                h2{ text-align: center; }
-
-                    h3{ font-size: 30px; }
-}
-
+     
+      h2 { grid-area: titulo;}
   
+        .portada { grid-area: portada;}
+      
+            .container-articulos{ grid-area: articulos;}
+      
+                .container-productos { grid-area: productos;}
+    
+                h2{
+                    text-align: center;
+                }
+            
+                    h3{
+                        font-size: 30px;
+                    }
+                 
+                    .portada img{
+                        width: 100%;
+                        height: 400px;
+                        object-fit: cover;
+                    }
+               
+                        .container-articulos img{
+                            width: 30%;
+                            height: auto;
+                            margin: 20px 10px;
+                            border-radius: 0px;
+                        }
+            
+                            .container-productos img{
+                                width: 30%;
+                                height: auto;
+                                margin: 20px 10px;
+                                border-radius: 0px;
+                            }
+}
