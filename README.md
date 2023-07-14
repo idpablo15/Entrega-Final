@@ -8,6 +8,6 @@ La variedad cultural que tiene SucréSucré, ha llevado a que la marca pueda ofr
 En nuestra pagina web podrás encontrar los productos de manera sencilla y podrás ver nuestra variedad de productos.
 
 
-link del sitio https://idpablo15.github.io/preentrega2/  
+link del sitio   https://idpablo15.github.io/preentrega3/
 
 Link del repositorio https://github.com/idpablo15/preentrega3
