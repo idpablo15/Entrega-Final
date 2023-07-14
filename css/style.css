@@ -396,7 +396,7 @@ h1{
     }
     
 
-.articulos h2{
+.articulos h3{
     font-size: 20px;
 }
 
@@ -453,7 +453,7 @@ h1{
               margin: 0;
             }
 
-
+        }
 
 
   /**** Footer ****/
@@ -471,4 +471,4 @@ h1{
 .footer-contenedor .iconosredes img{
 margin: 5px 10px;
 }
-}
+
