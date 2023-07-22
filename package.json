@@ -13,5 +13,8 @@
   "dependencies": {
     "it": "^1.1.1",
     "sass": "^1.63.6"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
   }
 }

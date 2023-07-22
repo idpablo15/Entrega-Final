@@ -1,109 +1,104 @@
 // Media queries
 
-
 @media (width < 768px) {
 
-  /*Home*/
-  
-  .parrafo{
-      flex-direction: column;
-
-      .descripcion{
-        width: 100%;
+    /*Home*/
+    
+    .parrafo{
+        flex-direction: column;
     }
-  }
-       
-  
-      /** Comprar **/
-  .producto, .claseproductos{
-      flex-direction: column;
-      height: auto;
-      margin-bottom: 0;
-  }
-  
-  .card {
-      width: 90%;
-      margin-top: 0;
-  }
-  
-  /** Retirar **/
-  .productos figure{
-      width: 80%;
-      margin: 10px;
-      }
-  
-      
-      /** Sale **/
-  
-  .container-saleimg{
-      display: flex;
-      flex-direction: column;
-
-      img{
+    
+        .parrafo .descripcion{
+            width: 100%;
+        }
+    
+        /** Comprar **/
+    .producto, .claseproductos{
+        flex-direction: column;
+        height: auto;
+        margin-bottom: 0;
+    }
+    
+    .card {
+        width: 90%;
+        margin-top: 0;
+    }
+    
+    /** Retirar **/
+    .productos figure{
         width: 80%;
+        margin: 10px;
+        }
+    
+        
+        /** Sale **/
+    
+    .container-saleimg{
+        display: flex;
+        flex-direction: column;
     }
-  }
-      
-
-      .articulos{
-          grid-template-rows: 150px;
-
-
-      }
-      .articulos h3{
+    
+        .container-saleimg img{
+            width: 80%;
+        }
+        
+    
+    .articulos h3{
         font-size: 20px;
     }
-
-  .portada {
-      width: 100%;
-      height: 200px;
-
-      img{
+    
+        .articulos{
+            grid-template-rows: 150px;
+        }
+    
+    .portada {
         width: 100%;
-        height: 150px;
+        height: 200px;
     }
-  }
-  
-  
-  .container-articulos, .container-productos{
-      display: flex;
-      flex-direction: column;
-  }
-  
-      .container-articulos img{
-          width: 90%;
-      }
-  
-          .container-productos img{
-              width: 90%;
-          }
-  
-         /** Contacto **/
-  
-              .formulario {
-                display: block;
-                text-align: center;
-                padding: 20px;
-
-                .form-control {
+        .portada img{
+            width: 100%;
+            height: 150px;
+        }
+    
+    
+    .container-articulos, .container-productos{
+        display: flex;
+        flex-direction: column;
+    }
+    
+        .container-articulos img{
+            width: 90%;
+        }
+    
+            .container-productos img{
+                width: 90%;
+            }
+    
+           /** Contacto **/
+    
+                .formulario {
+                  display: block;
+                  text-align: center;
+                  padding: 20px;
+                }
+              
+                .formulario .form-control {
                   width: 100%;
                   margin-bottom: 10px;
                 }
-              }
-            
-            
-              .iframe-adress {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                margin-top: 30px;
-              }
-            
-              .iframe-adress .mapa {
-                width: 100%;
-                height: auto;
-                margin: 0;
-              }
+              
+                .iframe-adress {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  margin-top: 30px;
+                }
+              
+                .iframe-adress .mapa {
+                  width: 100%;
+                  height: auto;
+                  margin: 0;
+                }
+    
             }
-
-            
+    

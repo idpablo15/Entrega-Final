@@ -8,6 +8,7 @@
     color: rgb(255, 255, 255);
 }
 
+
 .formulario{
     display: flex;
     align-items: center;
@@ -16,20 +17,27 @@
     width: 100%;
     height: auto;
     padding: 50px;
+}
 
-    
+.row{
+    height: auto;
+    width: 100%;
+}   
+
+.btn{
+    background-color: pink;
+    color:rgb(66, 66, 66);
 }
 
 .iframe-adress{
     display: flex;
-    margin-top: 100px;
-    flex-direction: row-reverse;
+    margin-top: 10px;
+}
 
 
-    .mapa{
+    .iframe-adress .mapa{
         width: 400px;
         height: 300px;
         margin: 50px 80px 50px 10px;
         border-radius: 5px;
     }
-}
