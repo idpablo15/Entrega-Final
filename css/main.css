@@ -347,6 +347,20 @@ h2 {
   padding: 0 30px;
 }
 
+.error404 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.video-error404 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0px 50px;
+}
+
 @media (width < 768px) {
   /*Home*/
   .parrafo {
