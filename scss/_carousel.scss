@@ -1,0 +1,13 @@
+/* carrusel */
+#carouselExample {
+    width: 100%;   
+    height: auto;
+    margin-top: 60px;
+}
+  
+.carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto;
+    margin: 5px 0;
+    object-fit: cover;
+  }

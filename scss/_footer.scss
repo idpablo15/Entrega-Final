@@ -4,8 +4,27 @@
     margin-top: 10px;
     padding-top: 10px;
     background-color: $maincolor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(41, 41, 41);
     
+
+        .card-footer {
+            margin-top: 10px;
+            width: fit-content;
+            height: fit-content;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 30px ;
+            gap: 40px;
+            }
 }
+
+.iconosredes .socialSvg path {
+    fill: rgb(41, 41, 41);
+  }
 
 .iconosredes{
     margin-top: 10px;
@@ -13,11 +32,6 @@
     display:flex;
     justify-content: center;
     align-items: center;
-        img{
-            width: 30px;
-            height: 30px;
-            margin: 10px 20px;           
-     }
 }
 
 
@@ -28,12 +42,62 @@
 
 
 .contacto1{
+    display: block;
     text-align: center;
     text-decoration: none;
     padding: 0 30px;
 }
 
+.terminos{
+    .terminos {
+        list-style: none; 
+        padding: 0; 
+        margin: 0; 
+        
+      }
+}
 
+.terminos a {
+    display: block;
+    text-decoration: none; 
+    padding: 0px 0; 
+    text-align: center;
+    color: rgb(41, 41, 41);
 
-  
-  
+}
+
+    
+
+      /* Whatsapp*/
+    .containerFour:hover {
+       transition-duration: .3s;
+    }
+    
+    .socialContainer:active {
+        transform: scale(0.9);
+        transition-duration: .3s;
+    }
+    
+    .socialSvg {
+        width: 25px;
+    }
+    
+    .socialSvg path {
+        fill: rgb(255, 255, 255);
+    }
+    
+    .socialContainer:hover .socialSvg {
+        animation: slide-in-top 0.3s both;
+    }
+    
+    @keyframes slide-in-top {
+    0% {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    
+    100% {
+    transform: translateY(0);
+    opacity: 1;
+    }
+}
