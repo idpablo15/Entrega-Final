@@ -319,7 +319,12 @@ h2 {
 
 .row {
   height: auto;
-  width: 80%;
+  width: 100%;
+}
+
+.row .contacto {
+  height: auto;
+  width: 70%;
 }
 
 .btn {
@@ -341,7 +346,8 @@ h2 {
 
 .footer-contenedor {
   margin-top: 10px;
-  padding-top: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   background-color: pink;
   display: flex;
   align-items: center;

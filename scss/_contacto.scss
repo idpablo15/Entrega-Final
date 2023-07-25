@@ -19,10 +19,16 @@
     padding: 50px;
 }
 
+
 .row{
     height: auto;
-    width: 80%;
+    width: 100%;
 }   
+
+.row .contacto{
+    height: auto;
+    width: 70%;
+}
 
 .btn{
     background-color: pink;
