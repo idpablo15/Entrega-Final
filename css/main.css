@@ -447,6 +447,17 @@ h2 {
   padding: 10px;
 }
 
+.video-404 {
+  width: 75%;
+  height: auto;
+}
+
+@media (width < 800px) {
+  .video-404 {
+    width: 100%;
+    height: auto;
+  }
+}
 @media (width < 768px) {
   /*Home*/
   .parrafo {
