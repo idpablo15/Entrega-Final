@@ -10,4 +10,5 @@ En nuestra pagina web podr√°s encontrar los productos de manera sencilla y podr√
 
 link del sitio   https://idpablo15.github.io/preentrega3/
 
-Link del repositorio https://github.com/idpablo15/preentrega3
+Link del repositorio   https://github.com/idpablo15/Entrega-Final
+
