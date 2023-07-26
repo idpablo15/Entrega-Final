@@ -211,20 +211,23 @@ h2 {
 
 .productos figure figcaption {
   color: black;
-  font-size: 1.6em;
+  font-size: 1.4em;
+  text-align: center;
+  padding: 5px;
 }
 
 .productos figure p {
-  font-size: 1.2em;
+  font-size: 1.1em;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .productos figure button {
   border: none;
-  padding: 6px 30px;
+  padding: 4px 20px;
   background-color: rgb(150, 99, 210);
   border-radius: 5px;
-  color: white;
+  color: rgb(245, 245, 245);
   text-align: center;
   margin-bottom: 30px;
 }
