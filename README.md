@@ -44,8 +44,8 @@ Por cuestiones de tiempo de entrega, el sitio esta a un 80% de las ideas y mejor
 
 
 About me:
-Soy Pablo Ferreyra, nací el 15 de noviembre de 1992 en Villa Mercedes (S.L). Vivi un tiempo en Costa Rica (2015 -2021 ) y hace casi 2 años vivo en Uruguay. Actualmente estoy trabajando como manager del E-commerce de Victoria´s Secret Uruguay. 
-Entrar en coderhouse y elegir este curso fue todo un desafio para mi, ya que a diferencia de los demas alumnos, no tenia nignun conocimiento en el area de programacion. Sin embargo estoy orgulloso de haber terminado el curso y poder decir que tengo los conocimientos y herramientas para desarrollar una web. Sin embargo se que esto no termina acá, mi proximo desafio es practicar hasta llegar a manejar los conocimientos adquiridos como mi profe Laura (THE BEST 😂). 
+Soy Pablo Ferreyra, nací el 15 de noviembre de 1992 en Villa Mercedes (S.L). Vivi un tiempo en Costa Rica (2015 -2021 ) y hace casi 2 años vivo en Uruguay. Actualmente estoy trabajando como E-commerce manager de Victoria´s Secret Uruguay. 
+Entrar en coderhouse y elegir este curso fue todo un desafio personal, ya que a diferencia de los demas alumnos, no tenia nignun conocimiento en el area de programacion. Sin embargo estoy orgulloso de haber terminado el curso y poder decir que tengo los conocimientos y herramientas para desarrollar una web. Se que esto no termina acá, mi proximo desafio es practicar todo nuevamente hasta llegar a manejar los conocimientos adquiridos como la profe Lau (THE BEST 😂). 
 Mi intención es seguir con el curso de JavaScrip para complementar un poco mas aun mis conocimientos en el area, para luego poder ser Desarrollador FullStak. 
 
 
