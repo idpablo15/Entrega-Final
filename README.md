@@ -7,8 +7,16 @@ La amplia experiencia y conocimientos en Pasteleria, hace que todos las personas
 La variedad cultural que tiene SucréSucré, ha llevado a que la marca pueda ofrecer diferentes tipos de reposteria (dulce o salada). Esta combinacion de recetas es lo que la hace diferente,unica y especial.
 En nuestra pagina web podrás encontrar los productos de manera sencilla y podrás ver nuestra variedad de productos.
 
+Las principales tecnologías que se utilizaron en nuestro sitio de ecommerce incluyen: 
 
-link del sitio   https://idpablo15.github.io/preentrega3/
+- HTML
+- CSS 
+- JavaScript 
+- Framework
+
+
+link del sitio   https://idpablo15.github.io/Entrega-Final/
 
 Link del repositorio   https://github.com/idpablo15/Entrega-Final
+
 
