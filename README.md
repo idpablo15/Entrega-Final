@@ -61,11 +61,11 @@ ________________________________________________________________________________
 
 A continuación detallo:
 
- GITHUB PAGES https://idpablo15.github.io/PFerreyra/
-
- REPOSITORIO https://github.com/idpablo15/PFerreyra
-
- HOSTING https://sucresucre.vercel.app
+ - GITHUB PAGES  https://idpablo15.github.io/PFerreyra/
+   
+ - REPOSITORIO   https://github.com/idpablo15/PFerreyra
+   
+ - HOSTING       https://sucresucre.vercel.app
 
 
 
