@@ -1,9 +1,9 @@
-   PROYECYO CODERHOUSE 🚀
+  #PROYECYO CODERHOUSE 🚀
 
 
 
 
-  🧁 SucréSucré 
+  🧁 ##SucréSucré 
 
 Es un emprendimiento que comenzó en Argentina en el año 2014, de la mano de Eloisa quien en ese entonces era inmigrante desde Venezuela. El proyecto no solo estuvo activo allí, tambien funcionó en Costa Rica. Actualmente estamos en Uruguay iniciando nuestros primeros pasos para lanzar la venta en linea y luego poder establecernos en algun punto del pais.
 La amplia experiencia y conocimientos en Pasteleria, hace que todos las personas que prueban nuestros productos se vuelvan automaticamente en clientes frecuentes. 
@@ -40,7 +40,7 @@ Contacto: aquí tienen la opción de dejarnos un mensaje mas personalizado y tam
 
 Por cuestiones de tiempo de entrega, el sitio esta a un 80% de las ideas y mejores que se tienen pensadas para el. Sin dudas no puede faltar el carrito de compras, la información dentro de cada card y más animaciones para que sea única.
 
-
+___________________________________________________________________________________________________________________________________________________________________________________
 
 
 About me:
@@ -49,20 +49,23 @@ Entrar en coderhouse y elegir este curso fue todo un desafio personal, ya que a 
 Mi intención es seguir con el curso de JavaScrip para complementar un poco mas aun mis conocimientos en el area, para luego poder ser Desarrollador FullStak. 
 
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
+
 
 A continuación detallo:
 
-https://idpablo15.github.io/Entrega-Final/
+###https://idpablo15.github.io/Entrega-Final/
 
-https://github.com/idpablo15/Entrega-Final
+###https://github.com/idpablo15/Entrega-Final
 
-https://sucresucre-ebon.vercel.app/
-
-
+###https://sucresucre-ebon.vercel.app/
 
 
 
-Este pequeño espacio quisiera utilizarlo para dejar un mensaje de agradecimiento a la encargada del area Laura y los tutores ( Martin, Aye e isma) que estuvieron siempre atentos y con buena predisposición para que el curso sea lo mas facil posible. Una gran experiencia que sin duda volvere a comprartir en algun otro curso que tome.
+___________________________________________________________________________________________________________________________________________________________________________________
+
+** Este pequeño espacio quisiera utilizarlo para dejar un mensaje de agradecimiento a la encargada del area Laura y los tutores ( Martin, Aye e isma) que estuvieron siempre atentos y con buena predisposición para que el curso sea lo mas facil posible. Una gran experiencia que sin duda volvere a comprartir en algun otro curso que tome.**
 
 
 
