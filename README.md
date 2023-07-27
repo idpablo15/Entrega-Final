@@ -1,4 +1,4 @@
-  PROYECYO CODERHOUSE 🚀
+ 							   PROYECYO CODERHOUSE 🚀
 
 
 
@@ -40,7 +40,11 @@ Contacto: aquí tienen la opción de dejarnos un mensaje mas personalizado y tam
 
 Por cuestiones de tiempo de entrega, el sitio esta a un 80% de las ideas y mejores que se tienen pensadas para el. Sin dudas no puede faltar el carrito de compras, la información dentro de cada card y más animaciones para que sea única.
 
+
+
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+
 
 
 About me:
@@ -49,7 +53,9 @@ Entrar en coderhouse y elegir este curso fue todo un desafio personal, ya que a 
 Mi intención es seguir con el curso de JavaScrip para complementar un poco mas aun mis conocimientos en el area, para luego poder ser Desarrollador FullStak. 
 
 
+
 ___________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
@@ -65,7 +71,9 @@ A continuación detallo:
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-** Este pequeño espacio quisiera utilizarlo para dejar un mensaje de agradecimiento a la encargada del area Laura y los tutores ( Martin, Aye e isma) que estuvieron siempre atentos y con buena predisposición para que el curso sea lo mas facil posible. Una gran experiencia que sin duda volvere a comprartir en algun otro curso que tome.**
+
+
+ Este pequeño espacio quisiera utilizarlo para dejar un mensaje de agradecimiento a la encargada del area Laura y los tutores ( Martin, Aye e isma) que estuvieron siempre atentos y con buena predisposición para que el curso sea lo mas facil posible. Una gran experiencia que sin duda volvere a comprartir en algun otro curso que tome.
 
 
 
