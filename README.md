@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 A continuación detallo:
 
- GITHUB PAGES https://idpablo15.github.io/Entrega-Final/
+ GITHUB PAGES https://idpablo15.github.io/PFerreyra/
 
  REPOSITORIO https://github.com/idpablo15/PFerreyra
 
@@ -74,6 +74,10 @@ ________________________________________________________________________________
 
 
  Este pequeño espacio quisiera utilizarlo para dejar un mensaje de agradecimiento a la encargada del area Laura y los tutores ( Martin, Aye e isma) que estuvieron siempre atentos y con buena predisposición para que el curso sea lo mas facil posible. Una gran experiencia que sin duda volvere a comprartir en algun otro curso que tome.
+
+
+ ![StandingOvationGIF (2)](https://github.com/idpablo15/PFerreyra/assets/137660490/da4cbcd7-3709-4112-bbe3-4275d8bd9bce)
+
 
 
 
