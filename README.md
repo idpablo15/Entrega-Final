@@ -1,4 +1,7 @@
-PROYECYO CODERHOUSE 🚀
+                                                                                   PROYECYO CODERHOUSE 🚀
+
+
+
 
 🧁 SucréSucré 
 
@@ -7,14 +10,6 @@ La amplia experiencia y conocimientos en Pasteleria, hace que todos las personas
 La variedad cultural que tiene SucréSucré, ha llevado a que la marca pueda ofrecer diferentes tipos de reposteria (dulce o salada). Esta combinacion de recetas es lo que la hace diferente,unica y especial.
 En nuestra pagina web podrás encontrar los productos de manera sencilla y podrás ver nuestra variedad de productos.
 Se aprovecho el proyecto de coderhouse para que el dia de mañana, este sitio funcione verdaderamente como un negocio familiar.
-
-
-
-About me:
-Soy Pablo Ferreyra, nací el 15 de noviembre de 1992 en Villa Mercedes (S.L). Vivi un tiempo en Costa Rica (2015 -2021 ) y hace casi 2 años vivo en Uruguay. Actualmente estoy trabajando como manager del E-commerce de Victoria´s Secret Uruguay. 
-Entrar en coderhouse y elegir este curso fue todo un desafio para mi, ya que a diferencia de los demas alumnos, no tenia nignun conocimiento en el area de programacion. Sin embargo estoy orgulloso de haber terminado el curso y poder decir que tengo los conocimientos y herramientas para desarrollar una web. Sin embargo se que esto no termina acá, mi proximo desafio es practicar hasta llegar a manejar los conocimientos adquiridos como mi profe Laura (THE BEST 😂). 
-Mi intención es seguir con el curso de JavaScrip para complementar un poco mas aun mis conocimientos en el area, para luego poder ser Desarrollador FullStak. 
-
 
 
 Las principales tecnologías que se utilizaron en nuestro sitio de ecommerce incluyen: 
@@ -47,6 +42,14 @@ Por cuestiones de tiempo de entrega, el sitio esta a un 80% de las ideas y mejor
 
 
 
+
+About me:
+Soy Pablo Ferreyra, nací el 15 de noviembre de 1992 en Villa Mercedes (S.L). Vivi un tiempo en Costa Rica (2015 -2021 ) y hace casi 2 años vivo en Uruguay. Actualmente estoy trabajando como manager del E-commerce de Victoria´s Secret Uruguay. 
+Entrar en coderhouse y elegir este curso fue todo un desafio para mi, ya que a diferencia de los demas alumnos, no tenia nignun conocimiento en el area de programacion. Sin embargo estoy orgulloso de haber terminado el curso y poder decir que tengo los conocimientos y herramientas para desarrollar una web. Sin embargo se que esto no termina acá, mi proximo desafio es practicar hasta llegar a manejar los conocimientos adquiridos como mi profe Laura (THE BEST 😂). 
+Mi intención es seguir con el curso de JavaScrip para complementar un poco mas aun mis conocimientos en el area, para luego poder ser Desarrollador FullStak. 
+
+
+
 A continuación detallo:
 
 https://idpablo15.github.io/Entrega-Final/
@@ -54,8 +57,6 @@ https://idpablo15.github.io/Entrega-Final/
 https://github.com/idpablo15/Entrega-Final
 
 https://sucresucre-ebon.vercel.app/
-
-
 
 
 
