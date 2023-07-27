@@ -447,6 +447,7 @@ h2 {
 .video-404 {
   width: 75%;
   height: auto;
+  box-shadow: 0px 3px 5px -2px;
 }
 
 @media (width < 800px) {
