@@ -65,7 +65,7 @@ A continuación detallo:
 
  REPOSITORIO https://github.com/idpablo15/PFerreyra
 
- HOSTING https://sucresucre-ebon.vercel.app/
+ HOSTING https://sucresucre.vercel.app
 
 
 
