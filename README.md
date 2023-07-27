@@ -63,7 +63,7 @@ A continuación detallo:
 
  GITHUB PAGES https://idpablo15.github.io/Entrega-Final/
 
- REPOSITORIO https://github.com/idpablo15/Entrega-Final
+ REPOSITORIO https://github.com/idpablo15/PFerreyra
 
  HOSTING https://sucresucre-ebon.vercel.app/
 
