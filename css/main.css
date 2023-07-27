@@ -15,7 +15,6 @@ body {
   height: auto;
   margin: 0 auto;
 }
-
 .logo img {
   width: 100%;
   height: auto;
@@ -100,8 +99,7 @@ h2 {
   padding: 2px;
   background-color: rgb(252, 248, 248);
 }
-
-.card img {
+.card .card img {
   width: 100%;
   height: 70%;
   -o-object-fit: cover;
@@ -152,7 +150,6 @@ h2 {
   background-color: rgb(252, 248, 248);
   border-radius: 5px;
 }
-
 .card img {
   width: 100%;
   height: 70%;
@@ -189,7 +186,6 @@ h2 {
   margin-bottom: 50px;
   padding: 0 20px;
 }
-
 .productos figure {
   width: 25%;
   border: solid grey 1px;
@@ -198,7 +194,26 @@ h2 {
   padding: 0px 20px;
   background-color: #faf5f0;
 }
-
+.productos figure p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos figure button {
+  border: none;
+  padding: 4px 20px;
+  background-color: rgb(150, 99, 210);
+  border-radius: 5px;
+  color: rgb(245, 245, 245);
+  text-align: center;
+  margin-bottom: 30px;
+}
+.productos figure figcaption {
+  color: black;
+  font-size: 1.4em;
+  text-align: center;
+  padding: 5px;
+}
 .productos figure img {
   width: 100%;
   height: 250px;
@@ -209,27 +224,8 @@ h2 {
   border-radius: 5px;
 }
 
-.productos figure figcaption {
-  color: black;
-  font-size: 1.4em;
+.buttons {
   text-align: center;
-  padding: 5px;
-}
-
-.productos figure p {
-  font-size: 1.1em;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.productos figure button {
-  border: none;
-  padding: 4px 20px;
-  background-color: rgb(150, 99, 210);
-  border-radius: 5px;
-  color: rgb(245, 245, 245);
-  text-align: center;
-  margin-bottom: 30px;
 }
 
 .adress {
@@ -242,10 +238,6 @@ h2 {
 .articulos {
   gap: 0px 0px;
   grid-auto-flow: row;
-  /*   grid-template-areas:
-      "portada portada portada"
-      "articulos articulos articulos"
-      "productos productos productos";*/
   margin-bottom: 10%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -324,7 +316,6 @@ h2 {
   height: auto;
   width: 100%;
 }
-
 .row .contacto {
   height: auto;
   width: 70%;
@@ -339,7 +330,6 @@ h2 {
   display: flex;
   margin-top: 10px;
 }
-
 .iframe-adress .mapa {
   width: 400px;
   height: 300px;
@@ -393,12 +383,11 @@ h2 {
   padding: 0 30px;
 }
 
-.terminos .terminos {
+.terminos {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
 .terminos a {
   display: block;
   text-decoration: none;
@@ -407,7 +396,6 @@ h2 {
   color: rgb(41, 41, 41);
 }
 
-/* Whatsapp*/
 .containerFour:hover {
   transition-duration: 0.3s;
 }

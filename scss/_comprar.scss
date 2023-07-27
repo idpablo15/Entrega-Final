@@ -15,13 +15,15 @@
     padding: 2px;
     background-color: $color-fondocard;
     border-radius: 5px;
+   
+    img{
+        width: 100%;
+        height: 70%;
+        object-fit: cover;
+    }
+    
 }
 
-.card img{
-    width: 100%;
-    height: 70%;
-    object-fit: cover;
-}
 
        .claseproductos .card h3{
             text-align: center;

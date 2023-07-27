@@ -23,27 +23,31 @@
 .row{
     height: auto;
     width: 100%;
+    
+        .contacto{
+            height: auto;
+            width: 70%;
+        }
 }   
 
-.row .contacto{
-    height: auto;
-    width: 70%;
-}
 
 .btn{
     background-color: pink;
     color:rgb(66, 66, 66);
 }
 
+
 .iframe-adress{
-    display: flex;
-    margin-top: 10px;
+        display: flex;
+        margin-top: 10px;
+
+        .mapa{
+            width: 400px;
+            height: 300px;
+            margin: 50px 80px 50px 10px;
+            border-radius: 5px;
+        }
 }
 
 
-    .iframe-adress .mapa{
-        width: 400px;
-        height: 300px;
-        margin: 50px 80px 50px 10px;
-        border-radius: 5px;
-    }
+

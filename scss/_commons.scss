@@ -6,6 +6,7 @@
     list-style: none;
 }
 
+
 body{
     background-color: $backgroundocolor-site;
 }
@@ -15,16 +16,15 @@ body{
     width: 200px;
     height: auto;
     margin: 0 auto;
+
+    img{
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
 }
 
-.logo img{
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-
-//buscador-fav-carrito
 
 // nav
 
@@ -33,8 +33,7 @@ body{
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   background-color: $maincolor;
-   
+   background-color: $maincolor;   
 }
 
 .navbar-expand-lg .navbar-collapse {
@@ -107,14 +106,14 @@ h2{
                     height: 25rem;
                     margin: 10px;
                     padding: 2px;
-                    background-color: $color-fondocard;   
-                }
-            
+                    background-color: $color-fondocard;  
                     .card img{
                         width: 100%;
                         height: 70%;
                         object-fit: cover;
-                    }
+                    } 
+                }
+                    
             
                    .producto .card h3{
                         text-align: center;

@@ -49,27 +49,23 @@
     padding: 0 30px;
 }
 
-.terminos{
-    .terminos {
+.terminos {
         list-style: none; 
         padding: 0; 
         margin: 0; 
-        
-      }
+       
+        a{
+         display: block;
+         text-decoration: none; 
+         padding: 0px 0; 
+         text-align: center;
+         color: rgb(41, 41, 41);
+        }
 }
 
-.terminos a {
-    display: block;
-    text-decoration: none; 
-    padding: 0px 0; 
-    text-align: center;
-    color: rgb(41, 41, 41);
 
-}
+  
 
-    
-
-      /* Whatsapp*/
     .containerFour:hover {
        transition-duration: .3s;
     }
